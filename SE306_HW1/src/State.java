@@ -1,0 +1,6 @@
+
+public enum State {
+	
+	STATE0, STATE1, STATE2, STATE3, STATE4, STATE5, STATE6, MAX_STATE;
+	
+}
